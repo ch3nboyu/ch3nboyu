@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ch3nboyu
-- 👀 I’m interested in imageGen&Edit, SearEng&RecSys
-- 🌱 I’m currently learning information retrieval and recommendation
+- 👀 I’m interested in imgGen&Edit, infoRetrieval
+- 🌱 I’m currently learning information retrieval and recommendation system
 - 💞️ I’m looking to collaborate on imageGen&Edit
 - 📫 How to reach me: boyu@mail.ustc.edu.cn
 
